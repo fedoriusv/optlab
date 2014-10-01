@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CData" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ABAgAAABECAAQAAAABAAAECAAAAAAAgIgAIAFAAAAAA=</HashCode>
+      <FileName>CData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDataOneDimensional" Collapsed="true">
+    <Position X="14.75" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABIABEAABBAACQAAAABAAAIAAABgCAAAtBAEAgAA=</HashCode>
+      <FileName>CData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDataMultiDimensional" Collapsed="true">
+    <Position X="11.75" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AoQBB4ABACABBAACQAAACBAAABACAJgCAAAtBAEAgAA=</HashCode>
+      <FileName>CData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFunction" Collapsed="true">
+    <Position X="6" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAIAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>CFunction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFuncionOneDimensional" Collapsed="true">
+    <Position X="4.25" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAQAEQAAAAAAgABABkEAAAAAAAABAAAA=</HashCode>
+      <FileName>CFunction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFuncionMultiDimensional" Collapsed="true">
+    <Position X="7.75" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQEEQgAAAAAgAAAFAEAAAAAgAABAAAA=</HashCode>
+      <FileName>CFunction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="CFMD" Collapsed="true">
+    <Position X="7.75" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMultiDimensionalSearch.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="CDMD" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMultiDimensionalSearch.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="CFOD" Collapsed="true">
+    <Position X="4.25" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>COneDimensionalSearch.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="CDOD" Collapsed="true">
+    <Position X="14.75" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>COneDimensionalSearch.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
